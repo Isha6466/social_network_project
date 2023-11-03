@@ -1,5 +1,4 @@
 # Social Network REST-api
-Project for StarNavi company, where used Postgresql and Flask
 ## Task
 The task is to develop a REST-api and interface for implementation of the models for this **Social network Api** system:
 * models:
@@ -7,7 +6,7 @@ The task is to develop a REST-api and interface for implementation of the models
 * object:
     * **likes** 
 * possible actions:
-    * Check analytics about how many likes was made. Example url ```/analitics/?date_from=2020-02-02&date_to=2020-02-15```
+    * Check analytics about how many likes was made.
     * View user activity (last login date, last request date)
     
 ## ER diagram
